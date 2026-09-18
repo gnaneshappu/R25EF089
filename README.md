@@ -6,3 +6,5 @@ I am a B.Tech student studying Artificial Intelligence and Data Science. I am cu
 Learning Python
 
 Interested in cloud computing
+
+Goal: contribute to open source

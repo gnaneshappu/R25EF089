@@ -8,3 +8,7 @@ Learning Python
 Interested in cloud computing
 
 Goal: contribute to open source
+
+## Projects
+
+I am working on projects related to Artificial Intelligence, Data Science, and software development. I plan to build practical projects that demonstrate my skills in programming and emerging technologies.
